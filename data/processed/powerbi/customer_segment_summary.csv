@@ -1,0 +1,5 @@
+﻿customer_segment,customer_count,total_invoices,total_revenue,average_customer_revenue
+Occasional,2454,7624,2948675.31,1201.58
+One-time,1623,1623,568173.83,350.08
+Regular,1331,12038,4724600.79,3549.66
+Frequent,470,15684,9501979.24,20216.98
